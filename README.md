@@ -7,7 +7,7 @@ Esse sistema foi desenvolvido para no hackaton Jacto-Agrícola. Com o intuito de
 
 #### :rocket: Versão (DEV 2.0): 
 
-A API foi totalmente desenvolvida em [Javasript e Jquery](https://www.javascript.com/,https://api.jquery.com/). Responsável por realizar toda a requisição dos dados entre a Aplicação (AspNet) 
+A API foi totalmente desenvolvida em [Javascript e Jquery](https://www.javascript.com/,https://api.jquery.com/). Responsável por realizar toda a requisição dos dados entre a Aplicação (Laravel) 
 e o Via Cep (https://viacep.com.br/).
 
 
